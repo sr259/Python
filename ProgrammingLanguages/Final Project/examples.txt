@@ -1,0 +1,27 @@
+Here are some inputs for runme.py
+
+1. 
+
+for x in 7:print(x != 9) continue x abs(x <= 9) for i in 12+1: continue i breakfor j in 24:continue j
+
+2. 
+
+for x in [1,2, 3, [[True, "hello"],False]]:for greeting in "hi": for num in 1+2*5:
+
+3. 
+
+if letter == ["a","b","c","d"]:type(letter)
+
+4. 
+
+while function >= x y z:def x(x >= z): for x in x-y: continue x list(function, 10, 11, 20)
+
+5.
+
+for x in 12+1:print(x < 15) type("is greater than") abs(x+5*2 > 15) type("is less than") break type("is equal to")
+
+6.
+
+for x in "h" - "i": print(x != "hi" and x != "bye")type("is either 'hi' or 'bye'")
+
+
